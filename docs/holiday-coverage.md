@@ -68,4 +68,4 @@ Both kinds of override expire on their own once you date them, so the real diffe
 
 ---
 
-*Names and the routine above are fictional, set up purely for this example. Independent third-party tool, not affiliated with, endorsed by, or sponsored by TaskCall.*
+*Independent third-party tool, not affiliated with, endorsed by, or sponsored by TaskCall.*

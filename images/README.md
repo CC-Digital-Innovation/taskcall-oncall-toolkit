@@ -1,7 +1,6 @@
 # Screenshots
 
-Images used by the project README and the `docs/` walkthrough. Every screenshot shows **fictional names
-only** — never real on-call data.
+Images used by the project README and the `docs/` walkthrough.
 
 **README:**
 
@@ -26,6 +25,5 @@ only** — never real on-call data.
 
 ## Capturing more
 
-Use a demo routine and policy with fictional names, or anonymize the displayed names before capturing —
-no real names should appear, including the logged-in user shown top-right. Capture each view at a clean,
-consistent width (the committed set is ~1280px wide).
+Use a demo routine and policy, and capture each view at a clean, consistent width (the committed set is
+~1280px wide).

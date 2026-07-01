@@ -75,5 +75,5 @@
   <!-- bottom takeaway -->
   <text x="520" y="556" font-size="13.5" fill="#334155" text-anchor="middle">Native overrides are <tspan font-weight="700" fill="#b91c1c">blanket</tspan> — one layer replaces everyone in the window, so you re-list rosters by hand.</text>
   <text x="520" y="578" font-size="13.5" fill="#334155" text-anchor="middle">The toolkit edits are <tspan font-weight="700" fill="#15803d">surgical</tspan>: name who's off and preview the result before it's written.</text>
-  <text x="520" y="610" font-size="11" fill="#94a3b8" text-anchor="middle">Names are fictional. Independent third-party tool — not affiliated with or endorsed by TaskCall.</text>
+  <text x="520" y="610" font-size="11" fill="#94a3b8" text-anchor="middle">Independent third-party tool — not affiliated with or endorsed by TaskCall.</text>
 </svg>
