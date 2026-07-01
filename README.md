@@ -151,4 +151,5 @@ Project Link: https://github.com/CC-Digital-Innovation/taskcall-oncall-toolkit
 
 ## Version History
 
+- 1.0.1: centered the toolbar icons (16/48/128) so the installed icon matches the store listing. No functional changes.
 - 1.0.0: initial release. Schedule viewer (Slots / People / Overlap), temporary overrides (cover/swap, dry-run preview, one-click cancel), Set coverage / time-off (authoritative by time), routine export/import, rotation editor (person + off-period, cadence-aware), and read-only policy coverage (escalation ladder, combined timeline, first-responder gap detection).

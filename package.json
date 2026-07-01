@@ -1,6 +1,6 @@
 {
   "name": "taskcall-oncall-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Browser extension that adds surgical shift swaps, time-off, and coverage views to TaskCall on-call.",
   "scripts": {

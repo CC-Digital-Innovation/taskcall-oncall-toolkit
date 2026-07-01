@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         On-Call Toolkit for TaskCall
 // @namespace    taskcall.oncall.toolkit
-// @version      1.0.0
+// @version      1.0.1
 // @description  View, edit & override TaskCall on-call schedules — swaps, covers, override-safe rotation editor
 // @match        https://*.taskcallapp.com/*
 // @run-at       document-idle
